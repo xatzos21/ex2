@@ -1,4 +1,9 @@
-#Task1
+#Task1-ex2
+
+#Your task is to check in action every basic math operators with combination of integers, floating point numbers, complex numbers and booleans. 
+# Do at least two calculations for every operator. 
+#Also make use of round function to round your floating point results to specific number of decimals.  
+#You can mix integer with floats inside given math operation.  
 
 import math
 
@@ -23,7 +28,11 @@ print('12.2 // 3 =' ,g)
 print('True * False =' , round(h))
 print('5 * (2 - 3j) =' , i)
 
-#Task2
+#Task2-ex2
+
+#Your task is to check in action every basic math function mentioned earlier
+# with combination of integers, floating point numbers, complex numbers and booleans. 
+# Do at least two calculations for every function. 
 
 import math
 
